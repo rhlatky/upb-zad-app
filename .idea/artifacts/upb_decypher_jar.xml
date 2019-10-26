@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="upb_decypher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/upb_decypher_jar</output-path>
+    <root id="archive" name="upb_decypher.jar">
+      <element id="module-output" name="upb_decypher" />
+    </root>
+  </artifact>
+</component>
